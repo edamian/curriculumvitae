@@ -1,0 +1,20 @@
+{
+  "name": "curriculumvitae",
+  "version": "1.0.0",
+  "description": "curriculum vitae",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edamian/curriculumvitae.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edamian/curriculumvitae/issues"
+  },
+  "homepage": "https://github.com/edamian/curriculumvitae#readme"
+}
